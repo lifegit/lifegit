@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning DevOps culture .
 
-<img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifegit&count_private=true&show_icons=true"/>
+<img width="450px" height="185px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifegit&count_private=true&show_icons=true"/>
 
 
 ### 🛠 &nbsp;Tech Stack
