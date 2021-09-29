@@ -9,8 +9,6 @@
 <img width="350px" height="165px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifegit&count_private=true&show_icons=true"/>
 
 
-<img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifegit&layout=compact"/>
-
 
 
 ### 🛠 &nbsp;Tech Stack
