@@ -3,7 +3,7 @@
 
 ### A passionate self-taught full stack developer from China🇨🇳.
 
-🌱 I’m currently learning DevOps culture .
+🌱 I’m currently learning [DevOps](https://docs.microsoft.com/zh-cn/devops/what-is-devops?view=azure-devops) culture .
 
 <img width="450px" height="185px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifegit&count_private=true&show_icons=true"/>
 
